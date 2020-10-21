@@ -9,33 +9,33 @@
     <atom:link href="http://example.com/child/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>该帅哥仍单身</description>
-    <pubDate>Wed, 21 Oct 2020 00:05:15 GMT</pubDate>
+    <pubDate>Wed, 21 Oct 2020 00:09:30 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>测试</title>
-      <link>http://example.com/child/undefined/202010/210805/</link>
-      <guid>http://example.com/child/undefined/202010/210805/</guid>
-      <pubDate>Wed, 21 Oct 2020 00:05:15 GMT</pubDate>
+      <title>Markdown基础语法</title>
+      <link>http://example.com/child/undefined/202010/210807/</link>
+      <guid>http://example.com/child/undefined/202010/210807/</guid>
+      <pubDate>Wed, 21 Oct 2020 00:07:22 GMT</pubDate>
       
         
         
-      <description>&lt;p&gt;的活塞i大厦打死u各地啊u吧&lt;/p&gt;
+      <description>&lt;p&gt;撒打撒大赛哦对哈苏&lt;/p&gt;
 </description>
         
       
       
       
-      <content:encoded><![CDATA[<p>的活塞i大厦打死u各地啊u吧</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>撒打撒大赛哦对哈苏</p>]]></content:encoded>
       
       
-      <category domain="http://example.com/child/categories/%E5%85%B6%E5%AE%83/">其它</category>
+      <category domain="http://example.com/child/categories/%E5%AD%A6%E4%B9%A0/">学习</category>
       
       
-      <category domain="http://example.com/child/tags/%E4%B8%B4%E6%97%B6%E7%9A%84/">临时的</category>
+      <category domain="http://example.com/child/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
       
       
-      <comments>http://example.com/child/undefined/202010/210805/#disqus_thread</comments>
+      <comments>http://example.com/child/undefined/202010/210807/#disqus_thread</comments>
       
     </item>
     
