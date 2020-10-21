@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>繁花落尽凄凉净</title>
-    <link>https://github.com/gjw2020/</link>
+    <link>http://example.com/child/</link>
     
-    <atom:link href="https://github.com/gjw2020/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://example.com/child/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>该帅哥仍单身</description>
     <pubDate>Wed, 14 Oct 2020 13:59:09 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://github.com/gjw2020/undefined/202010/142159/</link>
-      <guid>https://github.com/gjw2020/undefined/202010/142159/</guid>
+      <link>http://example.com/child/undefined/202010/142159/</link>
+      <guid>http://example.com/child/undefined/202010/142159/</guid>
       <pubDate>Wed, 14 Oct 2020 13:59:09 GMT</pubDate>
       
         
@@ -30,7 +30,7 @@
       
       
       
-      <comments>https://github.com/gjw2020/undefined/202010/142159/#disqus_thread</comments>
+      <comments>http://example.com/child/undefined/202010/142159/#disqus_thread</comments>
       
     </item>
     
