@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3e57b9;
+  background: #ec71ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2621,18 +2621,18 @@ mjx-container + br {
   background-attachment: fixed;
   background-position: 50% 50%;
 }
-code {
+# code {
   color: #ff7600;
   background: #fbf7f8;
   margin: 2px;
 }
-.highlight,
+# .highlight,
 pre {
   margin: 5px 0;
   padding: 5px;
   border-radius: 3px;
 }
-.highlight,
+# .highlight,
 code,
 pre {
   border: 1px solid #d6d6d6;
